@@ -1,4 +1,3 @@
-here are some of my scripts that i need to use the 
-partial c-preprocessor "Coan - the preprocessor chainsaw" 
-on the linux kernel as part of my bachelorspaper.
-
+Repository for my Scripts.
+My main task is using coan - the preprocessor chainsaw on Linux and document on what happens.
+The Scripts inside this repository are either my main scripts, that use coan recursively or compare preprocessor outputs if they're the same, or my tools or prototypes that i used to solve problems with my main scripts.
